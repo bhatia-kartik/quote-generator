@@ -1,8 +1,8 @@
 body {
     background: #fd746c;
-background: -webkit-linear-gradient(to right, #ff9068, #fd746c);
-background: linear-gradient(to right, #ff9068, #fd746c);
-transition: 0.5s ease-in-out;
+    background: -webkit-linear-gradient(to right, #ff9068, #fd746c);
+    background: linear-gradient(to right, #ff9068, #fd746c);
+    transition: 0.5s ease-in-out;
 }
 
 @font-face {
